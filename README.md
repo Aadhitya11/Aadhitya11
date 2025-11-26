@@ -15,9 +15,17 @@ I'm passionate about **fintech**, **quantitative analysis**, and **data-driven p
 - **AI & Machine Learning applications** in finance and product development
 - Advanced quantitative finance techniques
 
+## 💡 Notable Projects
+- ESG Factor Impact on Stock Returns
+- Risk Analytics with Monte Carlo Simulations
+- Portfolio Optimization using Python
+- Performance of a Diversified ETF Portfolio
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+### 📫 Let's Connect
+Exploring opportunities in **fintech**, **quant finance**, and **product analytics**. Reach out if you're building something interesting!
 
 
 <!--
